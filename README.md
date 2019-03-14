@@ -38,6 +38,7 @@ Uncurated list of smart contract resources
 * Algorithm W: https://github.com/wh5a/Algorithm-W-Step-By-Step
 * Notes on Programming Languages: http://ropas.snu.ac.kr/~kwang/pl-book-draft.pdf (pdf)
 * GHC CoreSynType: https://web.archive.org/web/20190223225919/https://ghc.haskell.org/trac/ghc/wiki/Commentary/Compiler/CoreSynType
+* Implementing and Understanding Type Classes: http://okmij.org/ftp/Computation/typeclass.html
 
 ## Dynamic Type System
 
