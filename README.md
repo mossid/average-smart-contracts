@@ -32,6 +32,8 @@ Uncurated list of smart contract resources
 * Wikipedia: https://en.wikipedia.org/wiki/Concatenative_programming_language
 * Kitten Programming Language: https://kittenlang.org/
 * A Simple Arited Concatenative Language: https://suhr.github.io/obsc/
+* Concatenative Programming: From Ivory to Metal: https://web.stanford.edu/class/ee380/Abstracts/171115-slides.pdf
+* Linear Logic and Permutation Stacks: The Forth Shall Be First: https://web.archive.org/web/20171118030503/http://home.pipeline.com/~hbaker1/ForthStack.html
 
 ## ML Type System
 
