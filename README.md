@@ -41,6 +41,7 @@ Uncurated list of smart contract resources
 * Notes on Programming Languages: http://ropas.snu.ac.kr/~kwang/pl-book-draft.pdf (pdf)
 * GHC CoreSynType: https://web.archive.org/web/20190223225919/https://ghc.haskell.org/trac/ghc/wiki/Commentary/Compiler/CoreSynType
 * Implementing and Understanding Type Classes: http://okmij.org/ftp/Computation/typeclass.html
+* History of Programming Languages: https://github.com/nuprl/hopl-s2017
 
 ## Dynamic Type System
 
