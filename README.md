@@ -47,4 +47,7 @@ Uncurated list of smart contract resources
 
 * Golang Interface Implementation: https://www.tapirgames.com/blog/golang-interface-implementation
 
-## Metaprogramming
+## WASM
+
+* Life wasm interpreter: https://github.com/perlin-network/life/blob/master/exec/helpers.go
+* Haskell to wasm compiler: https://github.com/tweag/asterius
