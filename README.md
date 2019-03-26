@@ -9,6 +9,7 @@ Uncurated list of smart contract resources
 * Plutus(cardano): https://testnet.iohkdev.io/plutus/
 * Simplicity(bitcoin): https://blockstream.com/simplicity.pdf (pdf)
 * Scilla(zilliqa): https://scilla-lang.org/
+* Formality(moonad): https://github.com/moonad/Formality
 
 ## Object Capabilities
 
